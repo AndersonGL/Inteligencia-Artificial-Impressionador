@@ -17,7 +17,7 @@ Ferramentas de inteligência artificial que podem te deixar 10x mais produtivo s
 | Módulo | Status | Aulas | Duração |
 |--------|--------|--------|---------|
 | 1. Introdução (Assista antes de começar) | ✅ Concluído | 13/13 | 1h17min |
-| 2. Introdução à Inteligência Artificial | ⏳ Não iniciado | 0/7 | 48min |
+| 2. Introdução à Inteligência Artificial | ⏳   Concluído   | 0/7 | 48min |
 | 3. O ChatGPT | ⏳ Não iniciado | 0/33 | 4h46min |
 | 4. Engenharia de Prompt (GPT Avançado) | ⏳ Não iniciado | 0/15 | 2h51min |
 | 5. Gemini, Copilot, e todas IAs essenciais | ⏳ Não iniciado | 0/28 | 4h52min |
